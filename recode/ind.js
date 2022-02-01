@@ -1,8 +1,8 @@
 exports.paymentstore = (owner) => {
 return `*PAYMENT STORE*
-Dana : 0881-7864-684
-Ovo : 0823-1646-4080
-Pulsa : 0823-1646-4080
+Dana : 0821-2424-5042
+Ovo : 0823-1632-4030
+Pulsa : 0823-1546-9080
 
 Note :
 Jika Sudah Transfer Wajib Kirim
